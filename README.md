@@ -2,10 +2,12 @@
 
 ![play](https://cdn.jsdelivr.net/gh/raptazure/cdn/projects/thplay.png)
 
+- Install `ffplay`
 - Play `Bad Apple!!` now
   ```shell
   stack run
   ```
-- Adding more Touhou Project songs...
+- Making it a Haskell music library
+- Adding more Touhou Project songs
 - Under slow development...
 - PRs are welcomed!
