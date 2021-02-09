@@ -1,3 +1,3 @@
-# Changelog for thcomposer
+# Changelog for mauve
 
 ## Unreleased changes

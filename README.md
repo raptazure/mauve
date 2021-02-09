@@ -1,13 +1,17 @@
-# λ th.composer
+# λ Mavue
+
+An **e**mbedded **D**omain **S**pecific **L**anguage for music composition and visualization.
+
+Status: 🚸 very WIP (eDSL part hasn't be implemented yet and it's more like a library now)
+
+## Quick Start
 
 ![play](https://cdn.jsdelivr.net/gh/raptazure/cdn/projects/thplay.png)
 
-- Install `ffplay`
-- Play `Bad Apple!!` now
+- Install `ffplay`.
+- Play *Bad Apple!!*
   ```shell
   stack run
   ```
-- Making it a Haskell music library
-- Adding more Touhou Project songs
-- Under slow development...
-- PRs are welcomed!
+- Will add more *Touhou Project* songs as examples.
+- Suggestions are welcomed!

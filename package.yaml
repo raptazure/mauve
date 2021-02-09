@@ -1,10 +1,10 @@
-name: thcomposer
+name: mauve
 version: 0.1.0.0
-github: "githubuser/thcomposer"
+github: "raptazure/mauve"
 license: BSD3
-author: "Author name here"
-maintainer: "example@example.com"
-copyright: "2020 Author name here"
+author: "raptazure"
+maintainer: "hermit0x9@outlook.com"
+copyright: "2021 raptazure"
 
 extra-source-files:
   - README.md
@@ -17,7 +17,7 @@ extra-source-files:
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description: Please see the README on GitHub at <https://github.com/githubuser/thcomposer#readme>
+description: Please see the README on GitHub at <https://github.com/raptazure/mauve#readme>
 
 dependencies:
   - base >= 4.7 && < 5
@@ -32,7 +32,7 @@ library:
     - Play
 
 executables:
-  thcomposer-exe:
+  mauve-exe:
     main: Main.hs
     source-dirs: app
     ghc-options:
@@ -40,10 +40,10 @@ executables:
       - -rtsopts
       - -with-rtsopts=-N
     dependencies:
-      - thcomposer
+      - mauve
 
 tests:
-  thcomposer-test:
+  mauve-test:
     main: Spec.hs
     source-dirs: test
     ghc-options:
@@ -51,4 +51,4 @@ tests:
       - -rtsopts
       - -with-rtsopts=-N
     dependencies:
-      - thcomposer
+      - mauve
