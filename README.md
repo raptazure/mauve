@@ -2,7 +2,7 @@
 
 An **e**mbedded **D**omain **S**pecific **L**anguage for music composition and visualization.
 
-Status: very WIP (eDSL part hasn't be implemented yet and it's more like a library now)
+Status: 🚸 WIP (eDSL part hasn't be implemented yet and it's more like a library now)
 
 ## Quick Start
 
